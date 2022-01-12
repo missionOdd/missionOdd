@@ -1,4 +1,23 @@
-### Hi there 👋
+# Hey, Missionary here! :wave: 
+
+I'm Missionary, from Guangdong, China.
+Hi there 👋. 
+
+
+- 🤔 Interests: Website development, Algorithm and data structure, Performance Tunning
+- 📚 Currently learning Spring, Cloud Network, Operating System, Middleware.
+- 🎒 To be a Javaer.
+- 📫 How to reach me: z1165996866@hotmail.com
+
+---
+
+
+[![MissionOdd's github stats](https://github-readme-stats.vercel.app/api?username=missionOdd&count_private=true&show_icons=true)](https://github.com/missionOdd/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=missionOdd&hide=javascript,html,css&theme=tokyonight)](https://github.com/missionOdd/github-readme-stats)
+---
+
+
 
 <!--
 **missionOdd/missionOdd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -13,4 +32,9 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
+
+## Wakatime statistics
+
+
+[![missionOdd's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=missionOdd)](https://github.com/missionOdd)
