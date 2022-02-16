@@ -7,9 +7,13 @@ Hi there 👋.
 - 🎒 To be a Javaer.
 - 📫 How to reach me: z1165996866@hotmail.com
 
-Welcome to my [blog](https://missionodd.github.io). 
+Welcome to my [blog](https://missionodd.github.io).
 
-https://missionodd.github.io
+
+
+[![alt text](https://img.shields.io/badge/Blog-Missionary-blue "title")](https://missionodd.github.io/)
+[![alt text](https://img.shields.io/badge/Leetcode-Missionary-yellow "title")](https://leetcode-cn.com/u/missionary/)
+[![alt text](https://img.shields.io/badge/Github-MissionOdd-lightgrey "title")](https://github.com/missionOdd)
 
 ---
 
