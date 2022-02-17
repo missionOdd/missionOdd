@@ -7,7 +7,7 @@ Hi there 👋.
 - 🎒 To be a Javaer.
 - 📫 How to reach me: z1165996866@hotmail.com
 
-Welcome to my [blog](https://missionodd.github.io).
+Welcome to my [blog](https://missionodd.github.io).  👉   》》 https://missionodd.github.io 《《   🎯
 
 
 
